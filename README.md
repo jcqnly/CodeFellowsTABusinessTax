@@ -15,9 +15,11 @@
 Your Account ID is your Business License # without the 001-001 after it. 
 6. Don't know your Account or Letter ID? Both are on the physical copy of the Combined Excise Tax Return that was mailed:
 ![Physical Copy of Tax Form](/assets/physicalForm.png)
-7.
-8.
-9.
-10.
-
-
+7. Your DOR Home should look like this:
+![New Home Page](/assets/newHome.png)
+Click "Excise Tax" to start the filing process.
+8. At the top right is a box that starts with "I Want To".  Click "File or Amend Tax Return"
+![Start File Tax](/assets/StartFileTax.png)
+9. The next page should look similar to this:![Tax Credits](/assets/taxCredit.png) **It is highly unlikely that you made more that $57,000/year as a CF TA, which means your business qualifies for a credit and you will pay no taxes.  This is a WA state tax credit for small business**
+10. _**I don't know for certain the rest of these steps because I paper filed for 2018.  Contributions are appreciated beyond this point!**_ If you click Next, I think they'll ask you for your bank info for payment, but you won't pay anything due to the WA state tax credit.
+11. Please note that those who did e-File said that nothing zero-ed out on that last picture you see, so it'll have that tax total still.
